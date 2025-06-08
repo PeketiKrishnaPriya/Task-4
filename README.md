@@ -3,6 +3,8 @@ Build-a-Recommendation-System-Using-Java-and-Apache-Mahout
 
 Name: Peketi Uma Ratna Sri Krishna Priya
 
+COMPANY: CODTECH IT SOLUTIONS PVT.LTD
+
 INTERN ID: CT08WT184
 
 DOMAIN: Java programming
